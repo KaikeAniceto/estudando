@@ -7,7 +7,6 @@ public class Main {
     public static void main(String[] args) throws IOException {
         Scanner scanner = new Scanner(System.in);
 
-
         int hora_inicio = scanner.nextInt();
         int hora_fim = scanner.nextInt();
         int duracao;
